@@ -1,5 +1,5 @@
 ## streamlit 에서 실행 가능한 코드로 변환
-## streamlit run .
+## streamlit run .\01.rag-app.py  -> streamlit 실행
 
 import os
 from dotenv import load_dotenv ## 환경변수(.env) 정보 가져옴
